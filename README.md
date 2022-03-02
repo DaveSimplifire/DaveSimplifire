@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DaveSimplifire
 - 👀 I’m interested in porting our contract management platform to the Internet Computer
 - 🌱 I’m currently learning Rust for smart contract development
-- 💞️ I’m looking to collaborate on CRUD (orthogonal) data persistence
+- 💞️ I’m looking to collaborate on data structures for orthogonal persistence
 - 📫 How to reach me: dave_ebbitt@simplifire.world
 
 <!---
